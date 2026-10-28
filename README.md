@@ -677,6 +677,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | Resource | Description |
 |---|---|
 | [STAR Method — Indeed Guide](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique) 🆓 | Canonical STAR framework with examples |
+| [MockLive — Interview Follow-up Questions](https://makeinterview.com/en/blog/mianshi-zhuishao-yuanxing) 🆓 | Five follow-up patterns and a self-check for explaining project decisions, personal contributions, and results |
 | [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) 🆓 | 16 LPs — the most copied behavioral rubric in tech |
 | [The Manager Tools / Career Tools Podcast](https://www.manager-tools.com) 🆓 | Behavioral + leadership interview prep, manager perspective |
 | [Exponent — Behavioral Interview](https://www.tryexponent.com/courses/behavioral) 💰 | Framework + example answers for tech behavioral |
